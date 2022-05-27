@@ -201,7 +201,6 @@ const Pricing = () => {
 
           <form
             className="w-full max-w-lg"
-            name="contact"
             method="POST"
             data-netlify="true"
             action="/success"
